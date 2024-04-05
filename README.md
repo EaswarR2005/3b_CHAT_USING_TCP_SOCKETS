@@ -9,18 +9,16 @@ To write a python program for creating Chat using TCP Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ### Client Program:
-![client chat pro](https://github.com/tamizhselvan23013460/3b_CHAT_USING_TCP_SOCKETS/assets/150231370/c2c30e4e-3c41-40aa-9e91-a86ecb5a4ce5)
+![client3b prog](https://github.com/EaswarR2005/3b_CHAT_USING_TCP_SOCKETS/assets/146931525/5067a85c-c16f-4011-88a1-3e59e8e2a23d)
 
 ### Server Program:
-![server chat pro](https://github.com/tamizhselvan23013460/3b_CHAT_USING_TCP_SOCKETS/assets/150231370/2a4af826-394d-4dd8-a1a0-765c213f5613)
-
+![server3b prog](https://github.com/EaswarR2005/3b_CHAT_USING_TCP_SOCKETS/assets/146931525/40d0e614-f792-4ba1-819f-3899280091d2)
 
 ## OUPUT
 ### Client Output:
-![client chat output](https://github.com/tamizhselvan23013460/3b_CHAT_USING_TCP_SOCKETS/assets/150231370/9e95c04a-b4d8-40e7-b96e-5c2b0ba67b52)
-
+![client3b op](https://github.com/EaswarR2005/3b_CHAT_USING_TCP_SOCKETS/assets/146931525/3d4cf39b-0b79-41fe-b896-1fe792871763)
 ### Server Output:
-![server chat output](https://github.com/tamizhselvan23013460/3b_CHAT_USING_TCP_SOCKETS/assets/150231370/26d6f94a-030e-4cd0-89b9-75084514dc25)
+![server3b op](https://github.com/EaswarR2005/3b_CHAT_USING_TCP_SOCKETS/assets/146931525/7d2ce4cb-50dd-45c8-bb34-72b6b8a2d1dc)
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
